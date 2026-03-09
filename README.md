@@ -22,6 +22,8 @@ Pandas: Manipulação e limpeza de dados.
 
 Streamlit: Framework para a interface web responsiva.
 
+Behave (Gherkin): Implementação de BDD (Behavior Driven Development) para garantir a qualidade da lógica de negócio.
+
 Git/GitHub: Versionamento e controle de histórico.
 
 📈 Evolução do Projeto (Iterações)
@@ -31,6 +33,7 @@ Implementação de testes BDD e Gherkin para validar a categorização de transa
 Interface Streamlit simples para visualização das transações em tabela.
 
 V2: Refatoração completa para UX baseada em Cards e fluxo de trabalho Pendente/Conciliado e interface Streamlit com tabela de dados e métricas.
+
 
 
 
